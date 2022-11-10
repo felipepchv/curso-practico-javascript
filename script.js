@@ -1,1 +1,1 @@
-prompt("funciona");
+console.log('Hello world');
